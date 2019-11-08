@@ -2,6 +2,13 @@
 
 Implementations of Image Segmentation
 
+## Instructions
+
+Compile .java file
+`javac edgedetect.java`
+Execute .class file
+`java edgedetect`
+
 Segmentation partitions an image into distinct regions containing each pixels with similar attributes.
 To be meaningful and useful for image analysis and interpretation, the regions should strongly
 relate to depicted objects or features of interest. Meaningful segmentation is the first step from lowlevel image processing transforming a greyscale or colour image into one or more other images to
